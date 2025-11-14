@@ -1,6 +1,7 @@
 #  Hand-Raise Detector (CoGuide Mini-Assessment)
 
-Detect when students raise their hands (no facial recognition) using pose landmarks from a classroom video.
+Detect when students raise their hands (no facial recognition) using pose landmarks from a classroom video.   
+Video program was tested on: https://www.youtube.com/watch?v=1BSsIMKSmRA&list=PL8knJxvDjLHscjL-DTMgV20QU10dS3_Xd&index=4
 
 The program outputs:
 - **Annotated video:** `outputs/output.mp4`
